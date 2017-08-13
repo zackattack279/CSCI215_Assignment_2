@@ -39,6 +39,15 @@ Create a webpage that has an input \<div\>, an output \<div\>, and a button that
 Processing means: converting the Morse Code in the input \<div\> to English in the output div.
 Morse code represents characters of an alphabet as sequences of dits (short key closures) and dahs (longer key closures). If we let a period (.) represent a dit and a dash (-) represent a dah, then the Morse code version of the English alphabet is
 
+| | | | | |
+|--------|--------|--------|--------|--------|
+| A .-   | G --.  | M --   | S ...  | Y -.-- |
+| B -... | H .... | N -.   | T -    | Z --.. |
+| C -.-. | I ..   | O ---  | U ..-  |        |
+| D -..  | J .--- | P .--. | V ...- |        |
+| E .    | K -.-. | Q --.- | W .--  |        |
+| F ..-. | L .-.. | R .-.  | X -..- |        |
+
 One blank space is used to separate letters and three blanks are used to separate words. Here is an example:
 
 Input \<div\>									Output \<div\>
@@ -50,10 +59,10 @@ Input \<div\>									Output \<div\>
 ## emailverify.html
 
 Create a webpage that has an input \<div\>, an output \<div\>, and a button that when clicked it processes the text in the input \<div\> and places the results in the output \<div\>.
-Processing means: check to see if the input \<div\> contains a valid email address, which means:
-One or more characters followed by an @ followed by one or more characters followed by a dot (.) followed by one or more characters.
-If the email address is valid display a smiley face pic in the output \<div\>. 
-If the email address is not valid display a frowny face pic in the output \<div\>
+  * Processing means: check to see if the input \<div\> contains a valid email address, which means:
+    * One or more characters followed by an @ followed by one or more characters followed by a dot (.) followed by one or more characters.
+  * If the email address is valid display a smiley face pic in the output \<div\>. 
+  * If the email address is not valid display a frowny face pic in the output \<div\>
 
 
 THIS IS INDIVIDUAL WORK ONLY. IF I SUSPECT THE CODE IS NOT YOURS, YOU WILL NEED TO COME TO MY OFFICE TO TAKE A VERBAL TEST ON THE CODE YOU SUBMITTED.
