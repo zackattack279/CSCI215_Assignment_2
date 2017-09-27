@@ -1,13 +1,13 @@
 # CSCI215_Assignment_2
 
-## Due 3 Oct 2017 @ 11:59 pm
+## Due 10 Oct 2017 @ 11:59 pm
 
 The purpose of this assignment is for you to get practice doing “generic” programming activities using JavaScript. Each problem is worth 20% of the grade. You need to:
 * Create separate .html files for each of the following JavaScript programming problems below. 
 
 ## randompic.html
 
-Randomly display 1 of 5 images on the screen when the page is loaded. Use whatever (PG) images you’d like. Be sure to put these in the .zip when you submit your assignment. 
+Randomly display 1 of 5 images on the screen when the page is loaded. Use whatever (PG) images you’d like.
 
 ## processtext.html
 
